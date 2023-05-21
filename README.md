@@ -22,5 +22,5 @@ https://enter-the-corp-vr.itch.io/download
 
 2022/2023 year
 
-![enter-the-corp-vr](git.png)
+![enter-the-corp-vr](git.PNG)
 
